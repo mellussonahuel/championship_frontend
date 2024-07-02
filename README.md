@@ -6,10 +6,6 @@ This repository contains the code for a frontend developed in Next.js. The prima
 
 The goal of this project is to provide a robust and scalable frontend that integrates with a backend developed in Nest.js. The backend includes functionalities such as user registration and authentication using JWT (JSON Web Tokens).
 
-## Backend Project
-
-The backend project can be found at the following link: [championship_backend](https://github.com/mellussonahuel/championship_backend)
-
 ## Technologies Used
 
 - **Next.js**
@@ -23,6 +19,10 @@ The backend project can be found at the following link: [championship_backend](h
 - **User Registration**: Interface for registering new users.
 - **User Authentication**: Interface for authenticating users using JWT.
 - **Responsive Design**: Ensures the application works on various screen sizes.
+
+## Backend Project
+
+The backend project can be found at the following link: [championship_backend](https://github.com/mellussonahuel/championship_backend)
 
 ## Getting Started
 
