@@ -1,0 +1,20 @@
+{
+  "user": {
+    "email": "Email",
+    "password": "Password"
+  },
+  "auth": {
+    "forgot": "forgot password?",
+    "singIn": "Sing in",
+    "singOut": "Sing out",
+    "singUp": "Create account"
+  },
+  "home": {
+    "welcome": "Welcome to our website!",
+    "intro": "This is the introduction in English."
+  },
+  "about": {
+    "title": "About Us",
+    "content": "Learn more about us in English."
+  }
+}
