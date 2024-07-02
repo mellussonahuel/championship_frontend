@@ -1,6 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend with Next.js
+
+This repository contains the code for a frontend developed in Next.js. The primary purpose of this project is to learn to use Next.js for building scalable frontend applications that integrate with a backend developed in Nest.js.
+
+## Purpose
+
+The goal of this project is to provide a robust and scalable frontend that integrates with a backend developed in Nest.js. The backend includes functionalities such as user registration and authentication using JWT (JSON Web Tokens).
+
+## Backend Project
+
+The backend project can be found at the following link: [championship_backend](https://github.com/mellussonahuel/championship_backend)
+
+## Technologies Used
+
+- **Next.js**
+- **React**
+- **JavaScript**
+- **TypeScript**
+- **Tailwind CSS**
+
+## Implemented Functionalities
+
+- **User Registration**: Interface for registering new users.
+- **User Authentication**: Interface for authenticating users using JWT.
+- **Responsive Design**: Ensures the application works on various screen sizes.
 
 ## Getting Started
+
+Clone this repository using:
+
+```bash
+git clone git@bitbucket.org:nahuelmellusso/championship_frontend.git
+```
+
+Install proyect
+
+```bash
+npm install
+```
 
 First, run the development server:
 
@@ -20,17 +56,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Stay in touch
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Author - [Nahuel Mellusso](www.linkedin.com/in/nahuel-mellusso)
+- Email - [nahuelmellusso@gmail.com](mailto:nahuelmellusso@gmail.com)
